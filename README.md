@@ -2,7 +2,7 @@
 Code to work with Hydrophone data using Python 3.9
 
 ## How to use
-This repository is supposed to be used with [Lifewatch pypam[(https://github.com/lifewatch/pypam)
+This repository is supposed to be used with [Lifewatch pypam](https://github.com/lifewatch/pypam)
 
 To use data from the Aural you need to prepare the data using **data_correct.py**
 **data_correct.py** will go through the folders listed in **deployment_list.txt**, correct all the .wav headers, rename the files from _time_date_name_ to _date_time_name_ and delete the first and last 3 files from each folder to remove the boatnoises used to deplay the hydrophone
