@@ -12,3 +12,11 @@ The **.nc** are created using pypams **acoustic_dataset.py**.
 
 <sub> Note: pypam doesn't accept the Aurals filenamestructure right now so time-related anaylsis (e.g. spectrograms) cannot be used </sub>
 
+## Dependencies
+- all the dependencies from pypam
+- Unipath v1.1
+- matplotlib v3.5.2
+- numpy v1.22.4
+- pandas v1.4.3
+- mplsoccer1.0.7
+- xarray v2022.3.0
