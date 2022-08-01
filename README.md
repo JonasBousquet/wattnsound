@@ -9,7 +9,7 @@ To use data from the Aural you need to prepare the data using **data_correct.py*
 
 To create a comparative spiderplot use **radarchartv7.py**. You will have to specify the path to the **.nc** files you want to compare (works with 2 files right now)
 The **.nc** are created using pypams **acoustic_dataset.py**.  
-<sub> Note: pypam doesn't accept the Aurals filenamestructure right now so time-related anaylsis (e.g. spectrograms) cannot be used </sub>
+<sub>~~ Note: pypam doesn't accept the Aurals filenamestructure right now so time-related anaylsis (e.g. spectrograms) cannot be used~~ </sub>
 
 ## Dependencies
 - all the dependencies from pypam
